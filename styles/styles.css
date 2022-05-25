@@ -1,7 +1,7 @@
 .info {
   width: 100%;
   padding-bottom: 120px;
-  background: url('/teachmeskills/hm8/img/bg.jpg') center/cover no-repeat;
+  background: url('./img/bg.jpg') center/cover no-repeat;
 }
 .header {
   width: 100%;
@@ -44,7 +44,6 @@
   left: 0;
   bottom: -40px;
 }
-
 .header__nav__ul__li-item > a {
   color: var(--color-white);
   font-weight: 700;
@@ -52,7 +51,6 @@
   text-transform: uppercase;
   text-align: center;
 }
-
 .info__description {
   margin: 0 70px;
   display: flex;
