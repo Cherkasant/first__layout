@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+:root {
+  --color-white: #ffffff;
+  --color-red: #ff4343;
+  --color-grey: #babbc5;
+  --color-black: #2d3033;
+  --color-greyhound: #6c7279;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
