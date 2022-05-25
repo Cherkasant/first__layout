@@ -116,6 +116,7 @@
   line-height: 28px;
   color: var(--color-black);
   padding: 25px 70px;
+  text-transform: uppercase;
 }
 .container__card__description {
   font-weight: 400;
