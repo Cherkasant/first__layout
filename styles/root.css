@@ -1,23 +1,16 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-a {
-  text-decoration: none;
-}
 :root {
   --color-white: #ffffff;
   --color-red: #ff4343;
   --color-grey: #babbc5;
   --color-black: #2d3033;
   --color-greyhound: #6c7279;
-}
-body {
-  font-family: 'Raleway', sans-serif;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
+  --color-gradient-red: radial-gradient(
+    circle,
+    rgba(255, 67, 67, 1) 80%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  --color-super-red: #b90c0c;
+  --color-grey: #c6cbcd;
+  --color-brown: #7e5d6f;
+  --color-str_black: #000000;
 }
