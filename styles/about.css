@@ -1,7 +1,7 @@
 .info {
   width: 100%;
   padding-bottom: 120px;
-  background: url('../img/bg.jpg') center/cover no-repeat;
+  background: url('../img/about_bg/bg.jpg') center/cover no-repeat;
 }
 .info__description {
   margin: 0 70px;

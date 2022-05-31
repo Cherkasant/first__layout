@@ -32,7 +32,7 @@
 .header__nav__ul__li-item > a:active {
   color: #e71414;
 }
-.header__nav__ul__li-item:active::after {
+.header__nav__ul__li-item:hover::after {
   background: #e71414;
   opacity: 1;
   right: 0;
