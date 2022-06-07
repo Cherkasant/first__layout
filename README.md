@@ -31,6 +31,6 @@
 - **:hover, :first-child, :last-child, :nth-child, :not()** :heavy_check_mark:
 - **:visited, :nth-child(), :target, :required, :focus** :heavy_check_mark:
 - **import,transform,animation,:checked,svg** :heavy_check_mark:
-- - **media** :heavy_check_mark:
+- **media** :heavy_check_mark:
 
 ---
