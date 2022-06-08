@@ -1,0 +1,109 @@
+.download {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 114px;
+}
+.download__title {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: var(--color-str_black);
+  padding: 25px 240px;
+}
+.download__subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--color-str_black);
+  margin-top: 5px;
+  margin-bottom: 45px;
+}
+
+@media (max-width: 1024px) {
+  .download {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 80px;
+  }
+  .download__title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: var(--color-str_black);
+    padding: 25px 220px;
+  }
+  .download__subtitle {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color-str_black);
+    margin-top: 5px;
+    margin-bottom: 45px;
+  }
+}
+
+@media (max-width: 768px) {
+  .download {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 80px;
+  }
+  .download__title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: var(--color-str_black);
+    padding: 20px 198px;
+  }
+  .download__subtitle {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color-str_black);
+    margin-top: 0;
+    margin-bottom: 45px;
+  }
+}
+
+@media (max-width: 320px) {
+  .download {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 45px;
+  }
+  .download__title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: var(--color-str_black);
+    padding: 20px 3px;
+  }
+  .download__subtitle {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color-str_black);
+    margin-top: 3px;
+    margin-bottom: 11px;
+  }
+}
