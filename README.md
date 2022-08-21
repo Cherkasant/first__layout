@@ -8,7 +8,7 @@
 
 ---
 
-**This homework was published in repository first\_\_layout**.
+**This page was published in repository first\_\_layout**.
 **This is link for my page ==>[Homework#12](https://cherkasant.github.io/first__layout/ 'Click me!!').**
 
 ---
