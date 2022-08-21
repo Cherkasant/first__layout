@@ -1,8 +1,8 @@
-# Homework #12 :mortar_board:
+# First_layout :mortar_board:
 
 ---
 
-## ![Alt text](https://www.all-languages.org.uk/wp-content/uploads/2017/11/homework.jpg)
+
 
 ## This is my first layout on [Figma](https://www.figma.com)
 
